@@ -1,5 +1,5 @@
 # 💫 About Me:
-## <br><br>Hi, I'm Vishesh 👋  <br>I'm a Computer Science undergraduate at NSUT with a strong interest in software development, machine learning, and backend systems. I enjoy building practical projects that combine scalable backend architectures with intelligent data-driven solutions.  <br><br>I’m passionate about problem-solving, continuously improving my data structures and algorithms skills, and exploring technologies in AI and full-stack development. I like turning ideas into working applications and learning through hands-on experimentation.<br><br>🔭 I’m currently working on  <br>👯 I’m looking to collaborate on  <br>🤝 I’m looking for help with  <br>🌱 I’m currently learning  <br>💬 Ask me about  <br>⚡ Fun fact  
+## <br><br>Hi, I'm Vishesh 👋  <br>I'm a Computer Science undergraduate at NSUT with a strong interest in software development, machine learning, and backend systems. I enjoy building practical projects that combine scalable backend architectures with intelligent data-driven solutions.  <br><br>I’m passionate about problem-solving, continuously improving my data structures and algorithms skills, and exploring technologies in AI and full-stack development. I like turning ideas into working applications and learning through hands-on experimentation.<br>  
 
 
 ## 🌐 Socials:
