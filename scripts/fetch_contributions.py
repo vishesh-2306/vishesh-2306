@@ -18,7 +18,7 @@ import requests
 from bs4 import BeautifulSoup
 
 USERNAME = os.environ.get("GH_PROFILE_USER", "vishesh-2306")
-URL = f"https://github.com/users/{USERNAME}/contributions"
+URL = f"https://github.com/users/{"vishesh-2306"}/contributions"
 OUT_PATH = os.path.join(os.path.dirname(__file__), "..", "data", "contributions.json")
 
 

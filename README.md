@@ -28,11 +28,11 @@
 
 <h3><code>vishesh@github ~ $ ./links.sh</code></h3>
 
-<p><b>Fullstack Developer · AI Builder · Instructor</b></p>
+<p><b>Software Developer · Learning AI</b></p>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-avivashishta.com-0d1117?style=for-the-badge&logo=vercel&logoColor=white)](https://www.avivashishta.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-avivashishta-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/avivashishta)
-[![Live Terminal](https://img.shields.io/badge/⚡_Live_Terminal-avivashishta29.github.io-22d3ee?style=for-the-badge&logo=gnometerminal&logoColor=black)](https://avivashishta29.github.io)
+[![Portfolio](https://img.shields.io/badge/Portfolio-avivashishta.com-0d1117?style=for-the-badge&logo=vercel&logoColor=white)](https://visheshkaushal.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-avivashishta-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vishesh-kaushal-8b4011306/)
+
 
 <br>
 
