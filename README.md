@@ -29,12 +29,21 @@
 <h3><code>vishesh@github ~ $ ./links.sh</code></h3>
 
 <p><b>Software Developer · Learning AI</b></p>
+<p align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-0d1117?style=for-the-badge&logo=vercel&logoColor=white)](https://visheshkaushal.vercel.app/)
+<a href="https://visheshkaushal.vercel.app">
+<img src="https://img.shields.io/badge/Portfolio-Visit-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Vishesh%20Kaushal-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vishesh-kaushal-8b4011306/)
+<a href="https://www.linkedin.com/in/vishesh-kaushal-8b4011306/">
+<img src="https://img.shields.io/badge/LinkedIn-Vishesh%20Kaushal-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
 
+<a href="mailto:your-email@example.com">
+<img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
+</p>
 <br>
 
 </div>
