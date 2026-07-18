@@ -30,8 +30,9 @@
 
 <p><b>Software Developer · Learning AI</b></p>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-avivashishta.com-0d1117?style=for-the-badge&logo=vercel&logoColor=white)](https://visheshkaushal.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-avivashishta-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vishesh-kaushal-8b4011306/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-0d1117?style=for-the-badge&logo=vercel&logoColor=white)](https://visheshkaushal.vercel.app/)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Vishesh%20Kaushal-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vishesh-kaushal-8b4011306/)
 
 
 <br>
